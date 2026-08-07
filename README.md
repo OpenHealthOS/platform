@@ -40,7 +40,9 @@ Planned early work includes:
 Contributions are welcome as the project evolves. At this stage, the contribution process is still being formalized, and contributors should expect to work collaboratively with the maintainers as the project matures.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
+
+You may use, modify, and distribute the software under the terms of that license, provided the required notices and license text are preserved.
 
 ## Disclaimer
 > **OpenHealthOS is under active development and is not intended for clinical decision-making or production healthcare use at this stage.**
