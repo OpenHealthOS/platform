@@ -1,0 +1,21 @@
+{
+  "ReverseProxy": {
+    "Routes": {
+      "gateway-route": {
+        "ClusterId": "gateway-cluster",
+        "Match": {
+          "Path": "{**catch-all}"
+        }
+      }
+    },
+    "Clusters": {
+      "gateway-cluster": {
+        "Destinations": {
+          "gateway-destination": {
+            "Address": "https://example.com"
+          }
+        }
+      }
+    }
+  }
+}
