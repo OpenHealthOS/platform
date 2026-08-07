@@ -8,8 +8,21 @@ OpenHealthOS aims to provide a flexible platform for health-focused applications
 ## Mission
 The mission of OpenHealthOS is to create a trustworthy and developer-friendly foundation for building health technology solutions with strong architecture, clear engineering practices, and long-term maintainability.
 
-## Project Status (Pre-Alpha)
-OpenHealthOS is currently in a pre-alpha stage. The repository is being set up, foundational documentation is being introduced, and the architecture is still evolving.
+## Current Status
+
+Pre-Alpha
+
+### Completed
+
+- Architecture
+- Bootstrap
+- Solution
+- Documentation
+
+### Next
+
+- Gateway
+- Identity
 
 ## Architecture (High Level)
 The platform is organized around a modular architecture that includes:

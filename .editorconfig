@@ -7,3 +7,11 @@ insert_final_newline = true
 indent_style = space
 indent_size = 2
 trim_trailing_whitespace = true
+
+[*.cs]
+dotnet_sort_system_directives_first = true
+dotnet_style_require_accessibility_modifiers = always
+csharp_style_namespace_declarations = file_scoped
+dotnet_style_prefer_auto_properties = true
+dotnet_style_object_initializer = true
+dotnet_style_collection_initializer = true

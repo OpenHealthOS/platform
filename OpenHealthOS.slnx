@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/BuildingBlocks/" />
+  <Folder Name="/src/BuildingBlocks/Contracts/">
+    <Project Path="src/BuildingBlocks/Contracts/OpenHealthOS.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/Infrastructure/">
+    <Project Path="src/BuildingBlocks/Infrastructure/OpenHealthOS.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/Observability/">
+    <Project Path="src/BuildingBlocks/Observability/OpenHealthOS.Observability.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/Security/">
+    <Project Path="src/BuildingBlocks/Security/OpenHealthOS.Security.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/SharedKernel/">
+    <Project Path="src/BuildingBlocks/SharedKernel/OpenHealthOS.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/src/Gateway/">
+    <Project Path="src/Gateway/OpenHealthOS.Gateway.csproj" />
+  </Folder>
+</Solution>
