@@ -4,6 +4,9 @@
   <Folder Name="/src/BuildingBlocks/Contracts/">
     <Project Path="src/BuildingBlocks/Contracts/OpenHealthOS.Contracts.csproj" />
   </Folder>
+  <Folder Name="/src/BuildingBlocks/Hosting/">
+    <Project Path="src/BuildingBlocks/Hosting/OpenHealthOS.Hosting.csproj" />
+  </Folder>
   <Folder Name="/src/BuildingBlocks/Infrastructure/">
     <Project Path="src/BuildingBlocks/Infrastructure/OpenHealthOS.Infrastructure.csproj" />
   </Folder>
@@ -13,8 +16,14 @@
   <Folder Name="/src/BuildingBlocks/Security/">
     <Project Path="src/BuildingBlocks/Security/OpenHealthOS.Security.csproj" />
   </Folder>
+  <Folder Name="/src/BuildingBlocks/ServiceDefaults/">
+    <Project Path="src/BuildingBlocks/ServiceDefaults/OpenHealthOS.ServiceDefaults.csproj" />
+  </Folder>
   <Folder Name="/src/BuildingBlocks/SharedKernel/">
     <Project Path="src/BuildingBlocks/SharedKernel/OpenHealthOS.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/Versioning/">
+    <Project Path="src/BuildingBlocks/Versioning/OpenHealthOS.Versioning.csproj" />
   </Folder>
   <Folder Name="/src/Gateway/">
     <Project Path="src/Gateway/OpenHealthOS.Gateway.csproj" />

@@ -15,3 +15,14 @@ csharp_style_namespace_declarations = file_scoped
 dotnet_style_prefer_auto_properties = true
 dotnet_style_object_initializer = true
 dotnet_style_collection_initializer = true
+
+# Keep initial analyzer noise manageable while still enforcing the rules.
+dotnet_diagnostic.SA1633.severity = suggestion
+dotnet_diagnostic.SA1600.severity = suggestion
+dotnet_diagnostic.SA1505.severity = suggestion
+dotnet_diagnostic.SA1508.severity = suggestion
+dotnet_diagnostic.SA1518.severity = suggestion
+dotnet_diagnostic.SA1201.severity = suggestion
+dotnet_diagnostic.SA1202.severity = suggestion
+dotnet_diagnostic.SA1309.severity = suggestion
+dotnet_diagnostic.SA1101.severity = suggestion

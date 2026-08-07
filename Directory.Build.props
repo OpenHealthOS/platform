@@ -18,6 +18,14 @@
     <AnalysisLevel>latest</AnalysisLevel>
 
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
+
+    <NoWarn>$(NoWarn);CS1591</NoWarn>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" PrivateAssets="all" />
+    <PackageReference Include="Roslynator.Analyzers" PrivateAssets="all" />
+    <PackageReference Include="StyleCop.Analyzers" PrivateAssets="all" />
+  </ItemGroup>
 
 </Project>
