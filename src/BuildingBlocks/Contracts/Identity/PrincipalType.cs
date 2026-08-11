@@ -19,5 +19,5 @@ public enum PrincipalType
     /// A workload operating on behalf of the platform,
     /// including AI workloads.
     /// </summary>
-    Workload = 3
+    Workload = 3,
 }

@@ -29,5 +29,5 @@ public enum ClientType
     /// <summary>
     /// An AI or machine-learning workload.
     /// </summary>
-    AIWorkload = 5
+    AIWorkload = 5,
 }
