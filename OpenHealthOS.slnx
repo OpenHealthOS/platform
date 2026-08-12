@@ -28,4 +28,8 @@
   <Folder Name="/src/Gateway/">
     <Project Path="src/Gateway/OpenHealthOS.Gateway.csproj" />
   </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/UnitTests/">
+    <Project Path="tests/UnitTests/OpenHealthOS.UnitTests.csproj" />
+  </Folder>
 </Solution>
