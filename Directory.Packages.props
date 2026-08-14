@@ -22,7 +22,7 @@
 
     <PackageVersion Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="10.0.0-preview.7" />
 
-    <PackageVersion Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="9.0.0" />
+    <PackageVersion Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="10.0.400" />
 
     <PackageVersion Include="Roslynator.Analyzers" Version="4.12.0" />
 
